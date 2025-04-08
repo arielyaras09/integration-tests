@@ -143,3 +143,4 @@ dmypy.json
 
 # Test temp directory
 tests/v2/integrationTest/tmp/
+.qodo
